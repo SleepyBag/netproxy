@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <PackAsTool>true</PackAsTool>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <ToolCommandName>netproxy</ToolCommandName>
     <TargetFramework>net6.0</TargetFramework>
